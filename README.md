@@ -30,10 +30,6 @@ The goal is to identify key trends, monitor sales, and provide insights for bett
 
 ---
 
-## 📷 Dashboard Preview  
-*(Add screenshot of your dashboard here)*  
-![Blinkit Dashboard Screenshot](link-to-your-image)  
-
 ---
 
 ## 📈 Insights from the Analysis  
@@ -43,10 +39,6 @@ The goal is to identify key trends, monitor sales, and provide insights for bett
 
 ---
 
-## 🚀 How to Use  
-1. Download the `Blinkit-analysis.pbix` (Power BI) / `Blinkit Grocery Data.xlsx` (Excel) file from this repository  
-2. Open it in **Power BI Desktop / MS Excel**  
-3. Explore the dashboard using slicers and filters  
 
 ---
 
